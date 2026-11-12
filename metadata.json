@@ -1,0 +1,8 @@
+{
+  "name": "Bazaz Solar Energy & Electricity Material",
+  "description": "Comprehensive business management system and public portal for Bazaz Solar Energy and Electricity Material in Zaria, Kaduna State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

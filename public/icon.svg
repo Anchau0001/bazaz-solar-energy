@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="100" fill="#064e3b" />
+  <circle cx="256" cy="256" r="140" fill="#047857" />
+  <!-- Solar Sun Core -->
+  <circle cx="256" cy="256" r="80" fill="#fbbf24" stroke="#f59e0b" stroke-width="8" />
+  <!-- Solar Rays -->
+  <g stroke="#fbbf24" stroke-width="12" stroke-linecap="round">
+    <line x1="256" y1="90" x2="256" y2="135" />
+    <line x1="256" y1="377" x2="256" y2="422" />
+    <line x1="90" y1="256" x2="135" y2="256" />
+    <line x1="377" y1="256" x2="422" y2="256" />
+    <line x1="138" y1="138" x2="170" y2="170" />
+    <line x1="342" y1="342" x2="374" y2="374" />
+    <line x1="138" y1="374" x2="170" y2="342" />
+    <line x1="342" y1="170" x2="374" y2="138" />
+  </g>
+  <!-- Solar PV Grid Pattern inside Sun -->
+  <path d="M 220 220 L 292 220 M 220 256 L 292 256 M 220 292 L 292 292 M 256 200 L 256 312" stroke="#064e3b" stroke-width="4" stroke-linecap="round" />
+  <!-- Energy Zap -->
+  <polygon points="270,180 230,260 265,260 240,330 300,240 265,240" fill="#ffffff" opacity="0.9" />
+</svg>
